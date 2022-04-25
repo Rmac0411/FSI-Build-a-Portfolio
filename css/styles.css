@@ -1,8 +1,14 @@
 body {
-    color: blue;
+   text-align: center;
+   color: blue;
+   background-color: rgba(110, 174, 112, 0.512);
 
 }
 
 h1 {background-color: green;
+
+}
+
+h3 {padding
 
 }
